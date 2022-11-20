@@ -1,6 +1,7 @@
 #Write a Python program to get a list, sorted in increasing order by the last element 
 # in each tuple from a given list of non-empty tuples
 size=int(input("Enter the number of elements need to be added:"))
+print("Enter the values continuously")
 lst=[]
 lst1=[]
 lst_final=[]
